@@ -1,0 +1,9 @@
+/* 
+    Created on : Aug 11, 2019, 3:50:38 PM
+    Author     : ANONYME
+*/
+
+.separator .line {
+    -fx-border-color: cadetblue;
+    -fx-border-width: 2;    
+}
